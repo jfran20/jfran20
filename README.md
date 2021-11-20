@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @jfran20
 - 👀 I’m interested in ...
     Data Science
+    
 - 🌱 I’m currently learning ...
-    Kotlin
+    Kotlin, Deep Learning 🧠
+   
 - 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ... 
     Email: jfranm99@gmail.com
 
