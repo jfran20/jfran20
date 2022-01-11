@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @jfran20
+- 👋 Hi, I’m Jose Francisco Estañon Miranda
 - 👀 I’m interested in ...
-    Data Science
+    Data Science and Machine Learning.
     
 - 🌱 I’m currently learning ...
     Kotlin, Deep Learning 🧠
-   
-- 💞️ I’m looking to collaborate on ...
 
 - 📫 How to reach me ... 
     Email: jfranm99@gmail.com
