@@ -3,7 +3,7 @@
     Data Science and Machine Learning.
     
 - 🌱 I’m currently learning ...
-    Kotlin, Deep Learning 🧠
+    Python, R, JS, SQL and more
 
 - 📫 How to reach me ... 
     Email: jfranm99@gmail.com
