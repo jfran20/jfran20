@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Jose Francisco Estañon Miranda
 - 👀 I’m interested in ...
-    Data Science and Machine Learning.
+    Data Science and Machine Learning
+    Python, R AND SQL
     
 - 🌱 I’m currently learning ...
-    Python, R, JS, SQL and more
+    MongoDB, Kafka, Spark
 
 - 📫 How to reach me ... 
     Email: jfranm99@gmail.com
